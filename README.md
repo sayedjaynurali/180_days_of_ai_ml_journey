@@ -7,7 +7,7 @@ The repo is intended as a transparent showcase of learning, projects, and progre
 
 ---
 
-## 🎯 Objective  
+## Objective  
 
 - Build a strong foundation in **Python, algorithms, statistics, and machine learning fundamentals**.  
 - Gain hands-on experience in **generative AI** (LLMs, prompt engineering, fine-tuning, applied projects).  
@@ -17,7 +17,7 @@ The repo is intended as a transparent showcase of learning, projects, and progre
 
 ---
 
-## 📅 Roadmap  
+## Roadmap  
 
 ### **Phase 1 – Foundations (Days 1–60)**  
 - Python for AI/ML  
@@ -37,7 +37,7 @@ The repo is intended as a transparent showcase of learning, projects, and progre
 - Deploying AI Models  
 - Capstone Project (integrating foundations + GenAI + Agentic AI)  
 
----
+<!-----
 
 ## 📂 Repository Structure  
 
@@ -46,9 +46,9 @@ The repo is intended as a transparent showcase of learning, projects, and progre
 - `resources/` → Study material, references, and guides  
 - `capstone/` → Final project consolidating the 180-day journey  
 
----
+--->
 
-## 🚀 End Goals  
+## End Goals  
 
 By the end of this challenge, I will have:  
 - Proficiency in **AI/ML fundamentals**  
@@ -58,7 +58,7 @@ By the end of this challenge, I will have:
 
 ---
 
-## 📌 Note  
+## Note  
 
 This repository is actively updated as the challenge progresses.  
 Feedback, suggestions, and collaboration ideas are always welcome.  
