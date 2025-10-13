@@ -1,5 +1,3 @@
-Got it Jay 😄 — here’s your **README.md** again, but this time **everything** (including the last 2 sections) is inside proper markdown code formatting, so you can **copy-paste directly** without breaking the layout:
-
 ````markdown
 # Password Manager GUI
 
