@@ -1,4 +1,3 @@
-````markdown
 # Flashy - French Flashcard App 🇫🇷
 
 Flashy is a simple desktop flashcard application built with Python's Tkinter and Pandas. It helps users learn French vocabulary by displaying a word, automatically showing the translation after a brief period, and allowing the user to mark words as known or unknown to refine their study list.
