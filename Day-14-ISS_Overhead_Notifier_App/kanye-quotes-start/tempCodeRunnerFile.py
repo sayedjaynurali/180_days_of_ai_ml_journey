@@ -1,1 +1,0 @@
-https://api.kanye.rest
