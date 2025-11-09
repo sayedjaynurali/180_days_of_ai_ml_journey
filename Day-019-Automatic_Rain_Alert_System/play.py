@@ -19,19 +19,19 @@ parameters = {
     "cnt": 4
     }
 
-# response = requests.get(url=endpoint_link,params=parameters)
-# response.raise_for_status()
-# data = response.json()
+response = requests.get(url=endpoint_link,params=parameters)
+response.raise_for_status()
+data = response.json()
 
-# for i in range(len(data["list"])):
-#     if data["list"][i]["weather"][0]["id"] < 700: # API doc if it will rain the code is below 700
+for i in range(len(data["list"])):
+    if data["list"][i]["weather"][0]["id"] < 700: # API doc if it will rain the code is below 700
 
-#         client = Client(account_sid, auth_token)
-#         message = client.messages.create(
-#         messaging_service_sid='MG5d36fae6f78286d5c04c8fd2add10f51',
-#         body='\nHey!\nPlease Take an Umbrella\nIt might Rain today.',
-#         to=phone_number
-#         )
-#         print(message.status)
+        client = Client(account_sid, auth_token)
+        message = client.messages.create(
+        messaging_service_sid='MG5d36fae6f78286d5c04c8fd2add10f51',
+        body='\nHey!\nPlease Take an Umbrella\nIt might Rain today.',
+        to=phone_number
+        )
+        print(message.status)
 
-#         break
+        break
